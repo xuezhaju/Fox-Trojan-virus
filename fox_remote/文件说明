@@ -1,0 +1,7 @@
+constants.py - 包含常量和配置
+
+client.py - 包含ScreenClient类
+
+utils.py - 包含工具函数
+
+main.py - 主程序入口
